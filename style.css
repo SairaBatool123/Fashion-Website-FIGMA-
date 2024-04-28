@@ -1,0 +1,21 @@
+* {
+    font-family: "Playfair Display", serif;
+}
+
+.bg {
+    background: #BAD7F2 !important;
+}
+
+.button {
+    background-color: #003559 !important;
+}
+
+.border {
+    border: 3px solid #003559 !important;
+    color: white;
+}
+
+footer a {
+    text-decoration: none !important;
+    color: white !important;
+}
